@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**chaitanyabhosale233/chaitanyabhosale233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi,I am Chaitanya
+Computer science Engineering student
+Currently learning python and programing
+Intereasted in software Devolpment
+Learning:
+-python
+-c languge
+-Data structure and Algorithms
+-Git and Github
+My goal: to build strong programing skills and get my first intership
+I upload my program project on git hub
+## connect with me Github :@chaitanyabhosale233
